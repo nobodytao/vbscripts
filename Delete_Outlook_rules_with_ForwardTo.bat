@@ -1,0 +1,1 @@
+cscript //nologo Delete_Outlook_rules_with_ForwardTo.vbs > Delete_rules_by_name_report.txt
